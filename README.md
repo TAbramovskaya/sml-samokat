@@ -15,7 +15,7 @@ Products are organized using a two-level category structure: categories (`level1
    Notebook: `02_sales_distribution.ipynb`
 
 3. Financial analysis: calculate average order value, daily margin, and the share of promotional sales.
-   Notebooks: `03_average_check.ipynb`, `04_promo_share.ipynb`, `05_margin_analysis.ipynb`
+   Notebooks: `03_financial_analysis.ipynb`
 
 4. Perform ABC analysis by quantity sold and revenue at the subcategory level.
-   Notebook: `06_abc_analysis.ipynb`
+   Notebook: `04_abc_analysis.ipynb`
